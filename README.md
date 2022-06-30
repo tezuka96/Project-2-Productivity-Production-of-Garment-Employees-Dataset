@@ -12,6 +12,7 @@ The goal of this project is to predict the actual productivity of garment employ
 - quarter year
 - department
 - day
+-
 
 The dataset is obtained from [here](https://www.kaggle.com/datasets/ishadss/productivity-prediction-of-garment-employees).
 
